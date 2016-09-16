@@ -4,8 +4,10 @@ This code book summarizes the resulting data fields in tidydata.txt.
 Identifiers
 
     subject - The ID of the test subject - A total of 30 subjects
-    activity - The type of activity performed when the corresponding measurements 		were taken . A total of 6 activities performed. 
-For each subject (out  of 30) 68 different measurements (listed under) are taken while performing 6 different activities . Hence a total of 180 observation sets.
+    activity - The type of activity performed when the corresponding measurements were taken .
+	 A total of 6 activities performed. 
+For each subject (out  of 30) 68 different measurements (listed under) are taken while performing 6 different activities .
+ Hence a total of 180 observation sets.
 
 Activity Labels
 
